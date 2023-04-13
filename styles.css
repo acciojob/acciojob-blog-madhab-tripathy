@@ -3,6 +3,10 @@
 	padding:0;
 	margin:0;
 }
-.blog{
+.blog .blog-post{
 	padding:20px 0;
 }
+.blog-post h1{
+	padding:20px 0;
+}
+
